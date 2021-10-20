@@ -1272,7 +1272,7 @@ msgid "Autoinstalling Completed"
 msgstr "Instalación automática completada"
 
 msgid "Autoinstalling please wait for packages being updated"
-msgstr "Instalación automática por favor espere a que los paquetes se actualizan"
+msgstr "Instalación automática por favor espere a que los paquetes se actualicen"
 
 msgid "Automatic Scan"
 msgstr "Búsqueda automática"
